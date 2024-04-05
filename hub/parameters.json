@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualNetworks_hub_name": {
+            "value": null
+        },
+        "routeTables_DefaultRT_name": {
+            "value": null
+        },
+        "publicIPAddresses_FWPIP_name": {
+            "value": null
+        },
+        "azureFirewalls_FirewallDemo_name": {
+            "value": null
+        },
+        "firewallPolicies_ParentPolicy_name": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_azurewebsite_net_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet1_externalid": {
+            "value": null
+        },
+        "virtualNetworks_vnet2_externalid": {
+            "value": null
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_webbAppSpoke2_name": {
+            "value": null
+        },
+        "privateEndpoints_pe_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet2_name": {
+            "value": null
+        },
+        "serverfarms_ASP_spoke2_b8a3_name": {
+            "value": null
+        },
+        "virtualMachines_VmAdmin2_name": {
+            "value": null
+        },
+        "components_webbAppSpoke2_name": {
+            "value": null
+        },
+        "networkInterfaces_vmadmin2271_z1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VmAdmin2_nsg_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___webbappspoke2_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_023b2039_5c23_44b8_844e_c002f8ed431d_EUS_externalid": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_azurewebsite_net_externalid": {
+            "value": null
+        },
+        "routeTables_DefaultRT_externalid": {
+            "value": null
+        },
+        "virtualNetworks_hub_externalid": {
+            "value": null
+        }
+    }
+}
